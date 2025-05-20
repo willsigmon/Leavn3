@@ -4,7 +4,7 @@ import React, { useState, useEffect, useCallback, useRef } from 'react';
     import VerseTools from '@/components/tools/VerseTools';
     import { useBibleNavigation } from '@/hooks/useBibleNavigation';
     import { useVerseSelectionHandler } from '@/hooks/useVerseSelectionHandler';
-    import { useLocalization } from '@/hooks/useLocalization.jsx';
+import { useLocalization } from '@/hooks/useLocalization';
     import { useToast } from '@/components/ui/use-toast';
 
     const ReaderPage = ({ searchTarget, clearSearchTarget }) => {

@@ -12,7 +12,7 @@ import React, { useState, useEffect, useCallback } from 'react';
     import { Button } from '@/components/ui/button';
     import { Moon, Sun, Globe } from 'lucide-react';
     import { motion, AnimatePresence } from 'framer-motion';
-    import { useLocalization } from '@/hooks/useLocalization.jsx';
+import { useLocalization } from '@/hooks/useLocalization';
     import {
       Select,
       SelectContent,
