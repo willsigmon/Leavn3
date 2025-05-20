@@ -1,7 +1,7 @@
 import { createClient } from '@supabase/supabase-js';
 
-    const supabaseUrl = 'https://gegergaanossklhfcowe.supabase.co';
-    const supabaseAnonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImdlZ2VyZ2Fhbm9zc2tsaGZjb3dlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDc3MDIwNTksImV4cCI6MjA2MzI3ODA1OX0.irpWBnKuPHExDOLFia-skPBPjgTlQhOaPLT5Ehiosk0';
+const supabaseUrl = import.meta.env.VITE_SUPABASE_URL;
+const supabaseAnonKey = import.meta.env.VITE_SUPABASE_ANON_KEY;
     
     export const supabase = createClient(supabaseUrl, supabaseAnonKey, {
       auth: {

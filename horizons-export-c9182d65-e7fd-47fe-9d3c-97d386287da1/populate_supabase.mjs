@@ -7,8 +7,8 @@ import { createClient } from '@supabase/supabase-js';
     const __filename = fileURLToPath(import.meta.url);
     const __dirname = path.dirname(__filename);
 
-    const supabaseUrl = 'https://gegergaanossklhfcowe.supabase.co';
-    const supabaseAnonKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImdlZ2VyZ2Fhbm9zc2tsaGZjb3dlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDc3MDIwNTksImV4cCI6MjA2MzI3ODA1OX0.irpWBnKuPHExDOLFia-skPBPjgTlQhOaPLT5Ehiosk0';
+    const supabaseUrl = process.env.VITE_SUPABASE_URL;
+    const supabaseAnonKey = process.env.VITE_SUPABASE_ANON_KEY;
 
     const supabase = createClient(supabaseUrl, supabaseAnonKey);
 
