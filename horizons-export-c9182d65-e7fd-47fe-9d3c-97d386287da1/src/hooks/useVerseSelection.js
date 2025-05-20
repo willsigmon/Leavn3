@@ -45,3 +45,4 @@ import { useRef, useCallback } from 'react';
 
       return { handleVerseClick, lastSelectedVerseIndexRef };
     };
+

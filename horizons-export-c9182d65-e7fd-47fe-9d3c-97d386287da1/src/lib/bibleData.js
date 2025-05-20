@@ -215,3 +215,4 @@ import { supabase } from '@/lib/supabaseClient';
         const books = await getAllBibleBooks();
         return books.map(b => b.name);
     }
+
