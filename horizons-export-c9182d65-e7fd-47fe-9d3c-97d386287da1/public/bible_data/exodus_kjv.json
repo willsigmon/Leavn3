@@ -1,0 +1,18 @@
+
+{
+  "1": [
+    { "text": "Now these are the names of the children of Israel, which came into Egypt; every man and his household came with Jacob.", "tags": ["Israelites", "Egypt", "Jacob's Family"], "location": { "name": "landOfGoshenLocationName", "lat": 30.8, "lon": 31.5, "zoom": 8 } },
+    { "text": "Reuben, Simeon, Levi, and Judah,", "tags": ["Tribes of Israel", "Genealogy"] },
+    { "text": "Issachar, Zebulun, and Benjamin,", "tags": ["Tribes of Israel", "Genealogy"] }
+  ],
+  "2": [
+    { "text": "And there went a man of the house of Levi, and took to wife a daughter of Levi.", "tags": ["Moses' Birth", "Levi"] },
+    { "text": "And the woman conceived, and bare a son: and when she saw him that he was a goodly child, she hid him three months.", "tags": ["Moses", "Concealment"] }
+  ],
+  "20": [
+    { "text": "And God spake all these words, saying,", "tags": ["Ten Commandments", "Mount Sinai"], "location": { "name": "mountSinaiLocationName", "lat": 28.5386, "lon": 33.9758, "zoom": 9 } },
+    { "text": "I am the LORD thy God, which have brought thee out of the land of Egypt, out of the house of bondage.", "tags": ["Divine Proclamation", "Liberation"] },
+    { "text": "Thou shalt have no other gods before me.", "tags": ["Monotheism", "First Commandment"] }
+  ]
+}
+  

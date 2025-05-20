@@ -1,0 +1,163 @@
+{
+  "1": [
+    { 
+      "text": "In the beginning God created the heaven and the earth.", 
+      "tags": [
+        { "name": "Creation", "type": "event" }, 
+        { "name": "Beginning", "type": "time" },
+        { "name": "God's Power", "type": "attribute" },
+        { "name": "God", "type": "person" },
+        { "name": "Heaven", "type": "place" },
+        { "name": "Earth", "type": "place" },
+        { "name": "Wonder", "type": "concept" },
+        { "name": "Awe", "type": "concept" }
+      ], 
+      "location": { "name": "unspecifiedLocationName", "lat": 0, "lon": 0, "zoom": 1 } 
+    },
+    { 
+      "text": "And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.", 
+      "tags": [
+        { "name": "Chaos", "type": "state" }, 
+        { "name": "Spirit of God", "type": "person" }, 
+        { "name": "Void", "type": "state" },
+        { "name": "God", "type": "person" },
+        { "name": "Deep waters", "type": "place" },
+        { "name": "Earth", "type": "place" },
+        { "name": "First day", "type": "time" },
+        { "name": "Water", "type": "element" },
+        { "name": "Darkness", "type": "concept" },
+        { "name": "Mystery", "type": "concept" }
+      ] 
+    },
+    { 
+      "text": "And God said, Let there be light: and there was light.", 
+      "tags": [
+        { "name": "Light", "type": "element" }, 
+        { "name": "God's Word", "type": "divine-act" },
+        { "name": "Creation by speaking", "type": "divine-act" },
+        { "name": "God", "type": "person" },
+        { "name": "First day", "type": "time" },
+        { "name": "Divine authority", "type": "attribute" }
+      ] 
+    },
+    { 
+      "text": "And God saw the light, that it was good: and God divided the light from the darkness.", 
+      "tags": [
+        { "name": "Evaluation", "type": "divine-act" },
+        { "name": "Separation", "type": "divine-act" },
+        { "name": "Order", "type": "concept" },
+        { "name": "God", "type": "person" },
+        { "name": "First day", "type": "time" },
+        { "name": "Light", "type": "element" },
+        { "name": "Darkness", "type": "concept" },
+        { "name": "Division", "type": "action" },
+        { "name": "Satisfaction", "type": "concept" }
+      ] 
+    },
+    { 
+      "text": "And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day.", 
+      "tags": [
+        { "name": "Naming", "type": "divine-act" }, 
+        { "name": "Time", "type": "concept" },
+        { "name": "Cycles", "type": "concept" },
+        { "name": "God", "type": "person" },
+        { "name": "First day", "type": "time" },
+        { "name": "Day", "type": "time" },
+        { "name": "Night", "type": "time" },
+        { "name": "Evening", "type": "time" },
+        { "name": "Morning", "type": "time" },
+        { "name": "Completion", "type": "event" }
+      ] 
+    },
+    { 
+      "text": "And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters.", 
+      "tags": [
+        { "name": "Firmament", "type": "element" }, 
+        { "name": "Sky", "type": "place" }, 
+        { "name": "Day 2", "type": "time" },
+        { "name": "Separation", "type": "divine-act" },
+        { "name": "Structure", "type": "concept" },
+        { "name": "God", "type": "person" },
+        { "name": "Waters", "type": "element" },
+        { "name": "Authority", "type": "attribute" }
+      ] 
+    },
+    { 
+      "text": "And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so.", 
+      "tags": [
+        { "name": "Separation of Waters", "type": "divine-act" },
+        { "name": "Boundary", "type": "concept" },
+        { "name": "Division", "type": "action" },
+        { "name": "Order", "type": "concept" },
+        { "name": "God", "type": "person" },
+        { "name": "Sky", "type": "place" },
+        { "name": "Waters above", "type": "place" },
+        { "name": "Waters below", "type": "place" },
+        { "name": "Second day", "type": "time" },
+        { "name": "Expanse", "type": "element" },
+        { "name": "Obedience", "type": "concept" }
+      ] 
+    },
+    { "text": "And God called the firmament Heaven. And the evening and the morning were the second day.", "tags": [{ "name": "Heaven", "type": "place" }, { "name": "Second Day", "type": "time" }, { "name": "Naming", "type": "divine-act" }, { "name": "God", "type": "person" }] },
+    { 
+      "text": "And God said, Let the waters under the heaven be gathered together unto one place, and let the dry land appear: and it was so.", 
+      "tags": [
+        { "name": "Dry Land", "type": "place" }, 
+        { "name": "Seas", "type": "place" }, 
+        { "name": "Day 3", "type": "time" },
+        { "name": "Gathering", "type": "action" },
+        { "name": "Appearance", "type": "event" },
+        { "name": "Land", "type": "place" },
+        { "name": "God", "type": "person" },
+        { "name": "Waters", "type": "element" },
+        { "name": "Command", "type": "divine-act" }
+      ] 
+    },
+    { 
+      "text": "And God called the dry land Earth; and the gathering together of the waters called he Seas: and God saw that it was good.", 
+      "tags": [
+        { "name": "Earth", "type": "place" }, 
+        { "name": "Seas", "type": "place" }, 
+        { "name": "Goodness", "type": "attribute" },
+        { "name": "Naming", "type": "divine-act" },
+        { "name": "Evaluation", "type": "divine-act" },
+        { "name": "Satisfaction", "type": "concept" },
+        { "name": "God", "type": "person" },
+        { "name": "Third day", "type": "time" },
+        { "name": "Land", "type": "place" },
+        { "name": "Water", "type": "element" },
+        { "name": "Approval", "type": "divine-act" }
+      ] 
+    },
+    { "text": "And God said, Let the earth bring forth grass, the herb yielding seed, and the fruit tree yielding fruit after his kind, whose seed is in itself, upon the earth: and it was so.", "tags": [{ "name": "Vegetation", "type": "element" }, { "name": "Plants", "type": "element" }, { "name": "Fruit Trees", "type": "element" }, { "name": "God", "type": "person" }, { "name": "Command", "type": "divine-act" } ] },
+    { "text": "And the earth brought forth grass, and herb yielding seed after his kind, and the tree yielding fruit, whose seed was in itself, after his kind: and God saw that it was good.", "tags": [{ "name": "Plant Life", "type": "element" }, { "name": "Goodness", "type": "attribute" }, { "name": "God", "type": "person" }, { "name": "Evaluation", "type": "divine-act" }] },
+    { "text": "And the evening and the morning were the third day.", "tags": [{ "name": "Third Day", "type": "time" }] },
+    { "text": "And God said, Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years:", "tags": [{ "name": "Sun", "type": "celestial" }, { "name": "Moon", "type": "celestial" }, { "name": "Stars", "type": "celestial" }, { "name": "Day 4", "type": "time" }, { "name": "God", "type": "person" }, { "name": "Command", "type": "divine-act" }] },
+    { "text": "And let them be for lights in the firmament of the heaven to give light upon the earth: and it was so.", "tags": [{ "name": "Celestial Lights", "type": "celestial" }, { "name": "God", "type": "person" }] },
+    { "text": "And God made two great lights; the greater light to rule the day, and the lesser light to rule the night: he made the stars also.", "tags": [{ "name": "Sun and Moon", "type": "celestial" }, { "name": "Rulers of Day and Night", "type": "concept" }, { "name": "Stars", "type": "celestial" }, { "name": "God", "type": "person" }, { "name": "Creation", "type": "event" }] },
+    { "text": "And God set them in the firmament of the heaven to give light upon the earth,", "tags": [{ "name": "Placement of Lights", "type": "divine-act" }, { "name": "God", "type": "person" }] },
+    { "text": "And to rule over the day and over the night, and to divide the light from the darkness: and God saw that it was good.", "tags": [{ "name": "Purpose of Lights", "type": "concept" }, { "name": "Goodness", "type": "attribute" }, { "name": "God", "type": "person" }, { "name": "Evaluation", "type": "divine-act" }] },
+    { "text": "And the evening and the morning were the fourth day.", "tags": [{ "name": "Fourth Day", "type": "time" }] },
+    { "text": "And God said, Let the waters bring forth abundantly the moving creature that hath life, and fowl that may fly above the earth in the open firmament of heaven.", "tags": [{ "name": "Sea Creatures", "type": "creature" }, { "name": "Birds", "type": "creature" }, { "name": "Day 5", "type": "time" }, { "name": "God", "type": "person" }, { "name": "Command", "type": "divine-act" }] },
+    { "text": "And God created great whales, and every living creature that moveth, which the waters brought forth abundantly, after their kind, and every winged fowl after his kind: and God saw that it was good.", "tags": [{ "name": "Whales", "type": "creature" }, { "name": "Marine Life", "type": "creature" }, { "name": "Avian Life", "type": "creature" }, { "name": "Goodness", "type": "attribute" }, { "name": "God", "type": "person" }, { "name": "Creation", "type": "event" }] },
+    { "text": "And God blessed them, saying, Be fruitful, and multiply, and fill the waters in the seas, and let fowl multiply in the earth.", "tags": [{ "name": "Blessing", "type": "divine-act" }, { "name": "Procreation", "type": "action" }, { "name": "God", "type": "person" }] },
+    { "text": "And the evening and the morning were the fifth day.", "tags": [{ "name": "Fifth Day", "type": "time" }] },
+    { "text": "And God said, Let the earth bring forth the living creature after his kind, cattle, and creeping thing, and beast of the earth after his kind: and it was so.", "tags": [{ "name": "Land Animals", "type": "creature" }, { "name": "Cattle", "type": "creature" }, { "name": "Beasts", "type": "creature" }, { "name": "Day 6", "type": "time" }, { "name": "God", "type": "person" }, { "name": "Command", "type": "divine-act" }] },
+    { "text": "And God made the beast of the earth after his kind, and cattle after their kind, and every thing that creepeth upon the earth after his kind: and God saw that it was good.", "tags": [{ "name": "Creation of Animals", "type": "event" }, { "name": "Goodness", "type": "attribute" }, { "name": "God", "type": "person" }] },
+    { "text": "And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.", "tags": [{ "name": "Creation of Man", "type": "event" }, { "name": "Image of God", "type": "concept" }, { "name": "Dominion", "type": "concept" }, { "name": "God", "type": "person" }] },
+    { "text": "So God created man in his own image, in the image of God created he him; male and female created he them.", "tags": [{ "name": "Male and Female", "type": "concept" }, { "name": "Imago Dei", "type": "concept" }, { "name": "God", "type": "person" }] },
+    { "text": "And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.", "tags": [{ "name": "Cultural Mandate", "type": "concept" }, { "name": "Stewardship", "type": "concept" }, { "name": "Blessing", "type": "divine-act" }, { "name": "God", "type": "person" }] },
+    { "text": "And God said, Behold, I have given you every herb bearing seed, which is upon the face of all the earth, and every tree, in the which is the fruit of a tree yielding seed; to you it shall be for meat.", "tags": [{ "name": "Food Provision", "type": "divine-act" }, { "name": "Vegetarian Diet", "type": "concept" }, { "name": "God", "type": "person" }] },
+    { "text": "And to every beast of the earth, and to every fowl of the air, and to every thing that creepeth upon the earth, wherein there is life, I have given every green herb for meat: and it was so.", "tags": [{ "name": "Food for Animals", "type": "divine-act" }, { "name": "God", "type": "person" }] },
+    { "text": "And God saw every thing that he had made, and, behold, it was very good. And the evening and the morning were the sixth day.", "tags": [{ "name": "Very Good", "type": "attribute" }, { "name": "Completion of Creation", "type": "event" }, { "name": "Sixth Day", "type": "time" }, { "name": "God", "type": "person" }, { "name": "Evaluation", "type": "divine-act" }] }
+  ],
+  "2": [
+    { "text": "Thus the heavens and the earth were finished, and all the host of them.", "tags": [{ "name": "Completion", "type": "event" }, { "name": "Universe", "type": "place" }] },
+    { "text": "And on the seventh day God ended his work which he had made; and he rested on the seventh day from all his work which he had made.", "tags": [{ "name": "Sabbath", "type": "time" }, { "name": "Rest", "type": "action" }, { "name": "Divine Rest", "type": "divine-act" }, { "name": "God", "type": "person" }], "location": { "name": "gardenOfEdenLocationName", "lat": 31.0, "lon": 35.0, "zoom": 7 } }
+  ],
+  "3": [
+    { "text": "Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden?", "tags": [{ "name": "Temptation", "type": "event" }, { "name": "Serpent", "type": "creature" }, { "name": "Eve", "type": "person" }, { "name": "God", "type": "person" }] },
+    { "text": "And the woman said unto the serpent, We may eat of the fruit of the trees of the garden:", "tags": [{ "name": "Dialogue", "type": "action" }, { "name": "Obedience", "type": "concept" }, { "name": "Eve", "type": "person" }] },
+    { "text": "But of the fruit of the tree which is in the midst of the garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die.", "tags": [{ "name": "Forbidden Fruit", "type": "element" }, { "name": "Consequence", "type": "concept" }, { "name": "God", "type": "person" }, { "name": "Eve", "type": "person" }] }
+  ]
+}
