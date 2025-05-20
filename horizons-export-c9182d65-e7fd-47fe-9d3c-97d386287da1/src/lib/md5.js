@@ -33,11 +33,11 @@
       typeof window !== 'undefined'
         ? window
         : typeof global !== 'undefined'
-        // eslint-disable-next-line no-restricted-globals
+         
         ? global
-        // eslint-disable-next-line no-restricted-globals
+         
         : typeof self !== 'undefined'
-        // eslint-disable-next-line no-restricted-globals
+         
         ? self
         : this || {},
       function () {
@@ -81,3 +81,4 @@
       }
       return rawHMACMD5(key, string);
     }
+

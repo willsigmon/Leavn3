@@ -204,3 +204,4 @@ import React, { useState, useCallback } from 'react';
     };
 
     export default BibleSearch;
+

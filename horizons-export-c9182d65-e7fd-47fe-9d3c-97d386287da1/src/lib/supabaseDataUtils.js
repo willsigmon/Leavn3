@@ -102,3 +102,4 @@ import { supabase } from '@/lib/supabaseClient';
         return [{ error: finalErrorMessage, data: null }]; 
       }
     };
+

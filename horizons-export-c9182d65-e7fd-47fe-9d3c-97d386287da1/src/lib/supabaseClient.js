@@ -20,3 +20,4 @@ import { createClient } from '@supabase/supabase-js';
     supabase.supabaseKey = supabaseAnonKey; // anon key
     supabase.functionsUrl = `${supabaseUrl}/functions/v1`;
   
+
